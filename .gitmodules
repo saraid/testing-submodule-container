@@ -1,4 +1,4 @@
 [submodule "module"]
 	path = module
 	url = git@github.com:saraid/testing-submodule-module.git
-	branch = new-branch
+	branch = .
